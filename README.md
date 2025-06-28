@@ -2,7 +2,7 @@
 Play the classic Rock-Paper-Scissors game in your browser! Built with **HTML**, **CSS**, and **JavaScript** — fully responsive for all devices.
 
 ---
-🔗 **Play Now:** [Click here to play]()
+🔗 **Play Now:** [Click here to play](https://koushanibhowmik.github.io/Rock-Paper-Scissors-Game/)
 
 ---
 ## 🚀 Features
